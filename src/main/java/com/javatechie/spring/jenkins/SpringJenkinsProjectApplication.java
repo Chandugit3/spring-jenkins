@@ -12,6 +12,7 @@ public class SpringJenkinsProjectApplication {
 	@GetMapping("/message")
 	public String getMessage() {
 		return "Welcome to Java";
+		return "Welcome to python";
 	}
 
 

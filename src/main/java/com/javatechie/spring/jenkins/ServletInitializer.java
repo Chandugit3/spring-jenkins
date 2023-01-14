@@ -9,11 +9,8 @@ public class ServletInitializer extends SpringBootServletInitializer {
 	protected SpringApplicationBuilder configure(SpringApplicationBuilder application) {
 		return application.sources(SpringJenkinsProjectApplication.class);
 		return nothing;
-<<<<<<< HEAD
 		return none;
-=======
 		return something;
->>>>>>> c1f028bd9be8488e6ecc61a968b70c58d257f801
 	}
 
 }
