@@ -13,6 +13,7 @@ public class SpringJenkinsProjectApplication {
 	public String getMessage() {
 		return "Welcome to Java";
 		return "Welcome to python";
+		return "Welcome to react";
 	}
 
 
